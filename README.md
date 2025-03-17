@@ -1,4 +1,4 @@
-Hello! My name is Bryzen ([Pronouns: he/him](https://www.nea.org/nea-today/all-news-articles/why-pronouns-matter)) and I study Public Affairs and Economics at the University of California, Los Angeles (UCLA). I am an aspiring applied, quantitative social scientist, where I utilize a variety of empirical techniques to understand poverty and social inequality: how economic activities, social units, and political institutions shape the experiences of disadvantaged communities. I have done substantive work in the field of public policy, urban planning, and social welfare, especially with regards to the life conditions of Asian Americans  and other communities of color in the United States, where I employed a wide range of analytical tools and collaborated with experts and scholars to produce action-oriented recommendations to community-based organizations and local government agencies.
+Hello! My name is Bryzen ([Pronouns: he/him](https://www.nea.org/nea-today/all-news-articles/why-pronouns-matter)) and I study Public Affairs and Economics at the University of California, Los Angeles (UCLA). I am an aspiring applied, quantitative social scientist, where I hope to utilize a variety of empirical techniques to understand poverty and social inequality; that is, how do economic activities and systems, social units, and political institutions shape the experiences of people living in poverty and what can public policy and administration do to mitigate them.
 
 ---
 
@@ -34,8 +34,6 @@ Ong, P., Pech, C., Ong, J., De La Cruz-Viesca, M., Gonzalez, S., **Morales, B.**
 
 Spatial
 - [Python](https://github.com/bryzennnnn/UP221-bryzen)
-  -   Visualization
-  -   Analysis: Spatial Autocorrelation
 
 Time-Series
 - R
